@@ -1,0 +1,99 @@
+
+Spieler 2;1553614388893;15825;King of the Hill
+Spieler 4;1553614388893;9865;King of the Hill
+Spieler 3;1553614388893;8375;King of the Hill
+Spieler 3;1553597765978;6265;Eroberung
+Spieler 2;1553615804219;4745;Eroberung
+Spieler 1;1553614388893;4610;King of the Hill
+Spieler 1;1553618537552;4600;Eroberung
+Spieler 2;1553618537552;3970;Eroberung
+Spieler 1;1553597765978;3925;Eroberung
+Spieler 1;1553615804219;3785;Eroberung
+Spieler 2;1553620561312;3670;Kill Modus
+Spieler 1;1553619183190;3280;Kill Modus
+Spieler 1;1553597563479;3190;Eroberung
+Spieler 2;1553614866203;3075;King of the Hill
+Spieler 1;1553619212999;2925;Kill Modus
+Spieler 2;1553620541942;2755;King of the Hill
+Spieler 2;1553610370690;2750;Kill Modus
+Spieler 2;1553614739093;2655;King of the Hill
+Spieler 2;1553613717773;2645;King of the Hill
+Spieler 2;1553618514931;2615;Eroberung
+Spieler 1;1553614739093;2615;King of the Hill
+Spieler 1;1553620541942;2575;King of the Hill
+Spieler 2;1553619212999;2530;Kill Modus
+Spieler 1;1553620561312;2515;Kill Modus
+Spieler 1;1553614866203;2505;King of the Hill
+Spieler 1;1553610370690;2500;Kill Modus
+Spieler 1;1553613717773;2485;King of the Hill
+Spieler 2;1553619183190;2480;Kill Modus
+Spieler 1;1553619140388;2480;Kill Modus
+Spieler 1;1553608449401;2475;Kill Modus
+Spieler 2;1553618265639;2440;Eroberung
+Spieler 2;1553608449401;2375;Kill Modus
+Spieler 1;1553610400094;2325;Kill Modus
+Spieler 2;1553615823822;2285;Eroberung
+Spieler 2;1553610400094;2270;Kill Modus
+Spieler 2;1553619033851;2230;Kill Modus
+Spieler 1;1553619033851;2160;Kill Modus
+Spieler 2;1553618624800;2120;Eroberung
+Spieler 2;1553619140388;2050;Kill Modus
+Spieler 2;1553619108113;1980;Kill Modus
+Spieler 2;1553597897565;1980;Recruit Modus
+Spieler 1;1553609019113;1950;Kill Modus
+Spieler 1;1553609065589;1735;Kill Modus
+Spieler 1;1553615823822;1695;Eroberung
+Spieler 1;1553619108113;1680;Kill Modus
+Spieler 1;1553619005611;1655;Kill Modus
+er;1553611147963;1650;Kill Modus
+Spieler 1;1553620604890;1635;Recruit Modus
+Spieler 1;1553618514931;1575;Eroberung
+Spieler 1;1553619614220;1505;Kill Modus
+Spieler 1;1553619591460;1500;Kill Modus
+Spieler 1;1553619305787;1465;Kill Modus
+b;1553615769984;1455;Eroberung
+Spieler 2;1553609019113;1400;Kill Modus
+Spieler 1;1553618375806;1355;Eroberung
+Spieler 2;1553618466695;1270;Eroberung
+Spieler 1;1553618265639;1240;Eroberung
+Spieler 2;1553620604890;1185;Recruit Modus
+Spieler 1;1553618624800;1160;Eroberung
+Spieler 2;1553619635798;1155;Kill Modus
+Spieler 2;1553619073713;1150;Kill Modus
+Spieler 2;1553619305787;1110;Kill Modus
+Spieler 2;1553619426693;1105;Kill Modus
+b;1553611379781;1020;Kill Modus
+Spieler 1;1553618904218;1005;Kill Modus
+Spieler 2;1553619591460;975;Kill Modus
+Spieler 2;1553618937642;950;Kill Modus
+Spieler 2;1553619614220;945;Kill Modus
+Spieler 2;1553620586880;920;Kill Modus
+ee;1553611431642;915;Kill Modus
+bsc;1553611258766;825;Kill Modus
+er;1553611190956;795;Kill Modus
+Spieler 2;1553609065589;785;Kill Modus
+Spieler 2;1553619005611;755;Kill Modus
+e;1553615769984;745;Eroberung
+basic;1553611147963;730;Kill Modus
+e;1553611379781;700;Kill Modus
+er;1553611258766;700;Kill Modus
+Spieler 1;1553619635798;680;Kill Modus
+Spieler 3;1553597829928;670;Kill Modus
+Spieler 1;1553619426693;660;Kill Modus
+bsc;1553611190956;645;Kill Modus
+Spieler 1;1553597726670;630;Kill Modus
+Spieler 2;1553618375806;595;Eroberung
+Spieler 1;1553618466695;590;Eroberung
+Spieler 2;1553605096604;570;Kill Modus
+Spieler 1;1553605110514;515;Kill Modus
+Spieler 1;1553597852546;510;Kill Modus
+Spieler 1;1553597852546;510;Kill Modus
+Spieler 1;1553597852546;510;Kill Modus
+Spieler 1;1553597852546;510;Kill Modus
+Spieler 1;1553618937641;495;Kill Modus
+Spieler 2;1553618904218;490;Kill Modus
+Spieler 1;1553620586880;475;Kill Modus
+bb;1553611431642;465;Kill Modus
+Spieler 1;1553597944451;465;Recruit Modus
+Spieler 1;1553619073713;445;Kill Modus
+Spieler 2;1553597726670;180;Kill Modus
